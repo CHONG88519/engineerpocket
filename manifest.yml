@@ -1,0 +1,13 @@
+---
+name: EngineerPocket
+version: 26.6.26.6
+guid: 16470BA0-275B-45C4-92D9-7380CA364D8F
+icon: icon.png
+authors:
+- CHONG ZHANG
+description: A simple and efficient toolbar plugin for structural engineers, designed to help quickly import the skeleton and 3D geometry of models from SAP2000, ETABS, and other software into RHINO. It also provides real-time conversion between Sap2000 and ETABS models within activated program. Other funny little features, e.g. music player, radio player, locking commandsinput to English, restarting Rhino, are continuously being added. Plugins are developed in C#.
+url: https://github.com/chong88519/engineerpocket
+keywords:
+- structural-engineering
+- sap2000
+- etabs
